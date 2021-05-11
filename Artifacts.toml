@@ -1,54 +1,124 @@
 [[CSFML]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e0f3821ac77938caf0e045fc5c48a2f06541c8e0"
-os = "windows"
-
-    [[CSFML.download]]
-    sha256 = "041b992cc5ce90444ad83db82e74ea8eace0a3f398a61ad5ecdd9ee652554305"
-    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+0/CSFML.v2.5.0.i686-w64-mingw32-cxx03.tar.gz"
-[[CSFML]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ed7b6ec6780d7bc550efaa42a16c6971e3f184e"
-os = "windows"
-
-    [[CSFML.download]]
-    sha256 = "6f0a65524bc2a5146f6d4b3160aaf5624bebc3ef5cc0838fe30567cd407f6a2b"
-    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+0/CSFML.v2.5.0.i686-w64-mingw32-cxx11.tar.gz"
-[[CSFML]]
-arch = "x86_64"
-git-tree-sha1 = "83153c3608ea35572651bcdde3f6f92795e201fd"
-os = "macos"
-
-    [[CSFML.download]]
-    sha256 = "bc407505d6ddb532934e246a6535c5ee78069d766b52b6c5c82fed2a418d952f"
-    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+0/CSFML.v2.5.0.x86_64-apple-darwin.tar.gz"
-[[CSFML]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3f43ee59ea3042c93d561e4bb8d249dddc1cca08"
+git-tree-sha1 = "d0725eec8d5c0e557595ca9e08e6510cc6a10122"
 libc = "glibc"
 os = "linux"
 
     [[CSFML.download]]
-    sha256 = "a35107287fce37aebcdd1bf6c5131a69d6374ff29e06f88a8563ccbb9d5e6511"
-    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+0/CSFML.v2.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "58255a387b6b73b2fd239696192199874b35cadbbf968ec8210fec79e1d9c7f9"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.i686-linux-gnu-cxx03.tar.gz"
+[[CSFML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9f0289151696911c706374bbb52e96dd22f13e5"
+libc = "glibc"
+os = "linux"
+
+    [[CSFML.download]]
+    sha256 = "304c94eaea31fecf06261ceda4062e6d3ea65ab3895d9b72c332e1262cdfdef2"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.i686-linux-gnu-cxx11.tar.gz"
+[[CSFML]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b54be81d297a1564a914f81e94ca7d410c1eb15e"
+libc = "musl"
+os = "linux"
+
+    [[CSFML.download]]
+    sha256 = "dc3282235b7eb0da8a0d9ba82aa0997cc80b3d42d91e7ddd86f9cfbd405de984"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.i686-linux-musl-cxx03.tar.gz"
+[[CSFML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99005504bf8436cc55e5d8f7e3691d698716815d"
+libc = "musl"
+os = "linux"
+
+    [[CSFML.download]]
+    sha256 = "ffbf2207ad4bc774fa164b4596ffdc299b21c72682c66b8dea29c277876eb1b9"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.i686-linux-musl-cxx11.tar.gz"
+[[CSFML]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "77138f3893be92eb4eb12de2337e747feaf2aef0"
+os = "windows"
+
+    [[CSFML.download]]
+    sha256 = "3e92d1ea4284192f461343d11b6a008a7bbdfde3e1ae5dfd7ff21db577c2b37e"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.i686-w64-mingw32-cxx03.tar.gz"
+[[CSFML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f203dcbcd969db836783c982335f33a871fe008"
+os = "windows"
+
+    [[CSFML.download]]
+    sha256 = "9419a4a1a7414a14dcdc288a2e649ae561d0a89c7f965c02181c8e60c79f7ffb"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.i686-w64-mingw32-cxx11.tar.gz"
+[[CSFML]]
+arch = "x86_64"
+git-tree-sha1 = "e56640e062f28ba6a56459ab772154ac6e8f8ce1"
+os = "macos"
+
+    [[CSFML.download]]
+    sha256 = "c37fe01e38867b440276bde3602aea9e9767c5c59f6f9fcd30b639f80a2b7af9"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.x86_64-apple-darwin.tar.gz"
 [[CSFML]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf5dfa0ac5f4430928328043c4ccaf5017d13394"
-os = "windows"
+git-tree-sha1 = "a4a09dfa3333e610455483d04db3b97f1b309632"
+libc = "glibc"
+os = "linux"
 
     [[CSFML.download]]
-    sha256 = "a79ab20b9fa020d0f6600223d90a1994d45b8b95f172414833aade81370d67e0"
-    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+0/CSFML.v2.5.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "68704d1f0c83fdb7b075097e0299b74d95930bc9284579b254e166071ac59b51"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[CSFML]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b95c4257f1cb689539f2f42663bae7f804e65e09"
+git-tree-sha1 = "bf615fa4ac44b2e125163464eca9733770ebfcc1"
+libc = "glibc"
+os = "linux"
+
+    [[CSFML.download]]
+    sha256 = "f159175c9821b68f5fe162f63eab99304e3fb669614619442154b443f5bea9ef"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[CSFML]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "51e5ea283e5c261dfeab79173f22e76c79dd80a8"
+libc = "musl"
+os = "linux"
+
+    [[CSFML.download]]
+    sha256 = "b73dce2e81fe6c03b842923ea78266bf5e86617f8af0cf53eb71e375b8da6eef"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.x86_64-linux-musl-cxx03.tar.gz"
+[[CSFML]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5fb9fb9203c9aa5640dd79454698e00c7a1a0c2a"
+libc = "musl"
+os = "linux"
+
+    [[CSFML.download]]
+    sha256 = "1bb28ddf620f2710e2a8c30e69083ea24f59ed48af2ffdf63a3f190e0ddd0036"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.x86_64-linux-musl-cxx11.tar.gz"
+[[CSFML]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b8118a277adf89afa01f13d973de723372c3f746"
 os = "windows"
 
     [[CSFML.download]]
-    sha256 = "fd00a175e8fe8f65de7317a988a49e9422fc378ddaf4326257ebe4c5cdd3b06a"
-    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+0/CSFML.v2.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "664539eb0525c6a631aa2d17b30e94820cd8b5d407191ee3db0040d2ec462387"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[CSFML]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ebb0c1fadc9c38e6cb79e3367cbd35feaf51ced2"
+os = "windows"
+
+    [[CSFML.download]]
+    sha256 = "28f8c33ccc9aa6fe75c6c6eca8087ce4384f63e8938d18cdd6e0d53c3ae52c92"
+    url = "https://github.com/JuliaBinaryWrappers/CSFML_jll.jl/releases/download/CSFML-v2.5.0+1/CSFML.v2.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
